@@ -1,6 +1,6 @@
 Feature 1. Amended.
 Feature 2. Also amended.
-# Making a pull request to an open-source project
+Feature 3.
 
 You want to make a pull request to an open-source project? You don't know how to do it?
 
